@@ -9,7 +9,7 @@
  then the student is asked to enter the answer for the arithmetic operations applied to two numbers.
  
  The software displays the number of correct answers and the message “Congratulations!” 
- if more than 6 questions are answered correctly, otherwise, the program should display "Please ask your teacher for help".
+ if more than 6 questions are answered correctly, otherwise, the program will display "Please ask your teacher for help".
  
  This Python function executes the arithmetic test for a student for multiplication or addition operations.
  The function receives as parameter an integer that represents the required operation (1 for multiplication and 0 for addition). 
