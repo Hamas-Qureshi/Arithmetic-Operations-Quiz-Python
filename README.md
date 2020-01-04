@@ -20,7 +20,3 @@ b. Ask the student to enter the answer for the arithmetic operation of the two
 numbers,
 c. Checks if the result is correct. If the answer is incorrect, it provides the correct
 answer.
-
-The program also prints “Congratulations!” or "Please ask your teacher for help", depending on whether the student gets more than 6 correct answers or not.
-
-
