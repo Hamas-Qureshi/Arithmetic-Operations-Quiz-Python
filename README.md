@@ -2,7 +2,7 @@
  Personal Projects created via Python.
  
  FIRST PROJECT : Arithmetic Equations Quiz
- The software allows the student to select the arithmetic operation she or he wishes to study. 
+ This software allows the student to select the arithmetic operation she or he wishes to study. 
  The student chooses from a menu one of two arithmetic operations: Addition and Multiplication.
  Based on the student choice, the software tests the user with exactly 10 questions.
  For each question, two random positive one-digit integers are generated; 
@@ -20,4 +20,7 @@ b. Ask the student to enter the answer for the arithmetic operation of the two
 numbers,
 c. Checks if the result is correct. If the answer is incorrect, it provides the correct
 answer.
+
+The program also prints “Congratulations!” or "Please ask your teacher for help", depending on whether the student gets more than 6 correct answers or not.
+
 
