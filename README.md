@@ -1,5 +1,4 @@
 # Projects-Python
- Personal Projects created via Python.
  
  FIRST PROJECT : Arithmetic Equations Quiz
  This software allows the student to select the arithmetic operation she or he wishes to study. 
