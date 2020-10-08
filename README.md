@@ -1,4 +1,4 @@
-# PersonalProjects-Python
+# Projects-Python
  Personal Projects created via Python.
  
  FIRST PROJECT : Arithmetic Equations Quiz
